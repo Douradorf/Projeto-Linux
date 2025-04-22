@@ -1,2 +1,2 @@
 # Projeto-Linux
-Projeto de comando de maquina virtual de linux
+Projeto de comando usando script em maquina virtual de linux
